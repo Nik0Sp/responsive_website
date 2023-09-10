@@ -1,14 +1,15 @@
 :root {
-  --color-bg-primary: #123456;
-  --color-bg-seconder: #87a0ba;
-  --color-bg-light-seconder: #abcdef;
-  --color-bg-dark-seconder: #987654;
+  --color-bg-primary: #3498db;          /* Blau */
+  --color-bg-seconder: #2ecc71;         /* Grün */
+  --color-bg-light-seconder: #f1c40f;  /* Gelb */
+  --color-bg-dark-seconder: #e74c3c;   /* Rot */
 
-  --color-accent: #ff00ff;
-  --color-success: #00ff00;
-  --color-warning: #ffff00;
-  --color-danger: #ff0000;
-  --color-dark: #000;
+  --color-accent: #9b59b6;              /* Lila */
+  --color-success: #27ae60;            /* Dunkelgrün */
+  --color-warning: #f39c12;            /* Orange */
+  --color-danger: #c0392b;             /* Dunkelrot */
+  --color-dark: #000;                   /* Schwarz */
+
   --container-width-lg: 80%;
   --container-width-md: 85%;
   --container-width-sm: 90%;
@@ -44,7 +45,6 @@ p {
 }
 
 body {
-  background: var(--color-bg-dark-seconder);
   text-transform: capitalize;
   color: var(--color-dark);
   cursor: default;
