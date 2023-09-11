@@ -1,14 +1,14 @@
 :root {
-  --color-bg-primary: #3498db;          /* Blau */
-  --color-bg-seconder: #2ecc71;         /* Grün */
-  --color-bg-light-seconder: #f1c40f;  /* Gelb */
-  --color-bg-dark-seconder: #e74c3c;   /* Rot */
+  --color-bg-primary: #3498db;          
+  --color-bg-seconder: #2ecc71;         
+  --color-bg-light-seconder: #f1c40f; 
+  --color-bg-dark-seconder: #e74c3c;  
 
-  --color-accent: #9b59b6;              /* Lila */
-  --color-success: #27ae60;            /* Dunkelgrün */
-  --color-warning: #f39c12;            /* Orange */
-  --color-danger: #c0392b;             /* Dunkelrot */
-  --color-dark: #000;                   /* Schwarz */
+  --color-accent: #9b59b6;             
+  --color-success: #27ae60;           
+  --color-warning: #f39c12;            
+  --color-danger: #c0392b;             
+  --color-dark: #000;                  
 
   --container-width-lg: 80%;
   --container-width-md: 85%;
